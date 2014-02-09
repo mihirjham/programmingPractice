@@ -1,9 +1,18 @@
-Hey Kunal,
-Please add questions you think will be good practice here. 
-And, I will complete them and add them to this repository. 
-It'll be a faster way to work as we both aren't usually available at the same times during the week. Thanks :)
+To work on:
 
-Working On:
+---
+A non-empty vector A consisting of N integers is given. A pair of integers (P, Q) is called K-complementary in vector A if 0 ≤ P, Q < N and A[P] + A[Q] = K.
 
+For example, consider vector A such that:
+
+  A[1] =  1  A[2] = 8  A[3]= -3   ## array in R are 1 indexed
+  A[4] =  0  A[5] = 1  A[6]=  3
+  A[7] = -2  A[8] = 4  A[9]=  5
+The following 7 pairs are 6-complementary in vector A:
+
+(1,9), (2,7), (5,9), (6,6), (7,2), (9,1), (9,5)
+Given an integer K and a vector of N integers, Compute the number of k-complimentary pairs.
+
+---
 Solved:
 
