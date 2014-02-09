@@ -1,5 +1,4 @@
 To work on:
-
 ---
 A non-empty vector A consisting of N integers is given. A pair of integers (P, Q) is called K-complementary in vector A if 0 ≤ P, Q < N and A[P] + A[Q] = K.
 
