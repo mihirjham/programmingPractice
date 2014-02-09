@@ -11,7 +11,59 @@ The following 7 pairs are 6-complementary in vector A:
 
 (1,9), (2,7), (5,9), (6,6), (7,2), (9,1), (9,5)
 Given an integer K and a vector of N integers, Compute the number of k-complimentary pairs.
-
 ---
+Given an array of integers A, return a list of integers that are present an odd number of times.
+
+If A = [1, 2, 3, 4, 4, 1, 2, 2, 4, 5]
+
+Answer returned would be result = [2, 4, 5]
+Runtime complexity?
+Space complexity?
+---
+Given a sentence as a string, print out each unique character with the number of occurences in the string.
+
+Example:
+sentence = "Hi How are you today?"
+result = "
+H 1
+i 1
+o 3
+w 1
+a 2
+r 1
+e 1
+y 2
+t 1
+u 1
+d 1
+"
+---
+Spotify is a great place to discover music. When browsing an artist's page on Spotify, Spotify has a "Popular" section that displays the name of a song, and the number of times the song has been listened to. 
+
+Consider yourself an engineer at Spotify where you are to build this feature! 
+
+You are to write the following function:
+
+Array<Song> GetPopularSongsForArtist(int artistId, int N)
+where N is the number of popular songs to return. Feel free to create the Song class as you would see fit.
+
+Assume that following services already exist within the company:
+
+* string GetSongById(int songId)
+* int GetNumSongsForSongId(int songId)
+* Array<Song> GetListofSongsForArtist(int artistId)
+
+Feel free to write this in a language of your choice, and with any datastructures that you see fit for using.
+What is the runtime complexity of such a solution?
+--
+
+
+ 
+
+
+
+
+
+
 Solved:
 
