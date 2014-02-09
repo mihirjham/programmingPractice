@@ -38,6 +38,12 @@ u 1
 d 1
 "
 ---
+Write an autocomplete feature as a command line program using the Google Places API: (https://developers.google.com/places/documentation/autocomplete)
+
+The program should prompt the user for a search string. The user should need to press enter after the search string is typed for you to return results, and should then prompt the user for a search string again. This should continue until the user types QUIT.
+
+What do you think the time complexity of such a program is? What are the factors the runtime complexity depends on?
+---
 Spotify is a great place to discover music. When browsing an artist's page on Spotify, Spotify has a "Popular" section that displays the name of a song, and the number of times the song has been listened to. 
 
 Consider yourself an engineer at Spotify where you are to build this feature! 
