@@ -3,7 +3,9 @@ import java.util.Arrays;
 class OddProblem
 {
 	/*O(nlogn) Time Solution
-	 * O(n) Space*/
+	 * O(n) Space
+	 * I know you were looking for a int[] list, which will affect the Space complexity(or not),
+	 * I'll tend to that after I finish the other ones.*/
 	public static int[] oddCompute(int A[])
 	{
 		Arrays.sort(A);
