@@ -6,15 +6,19 @@ Applied:
 	-Dropbox
 	-Quora
 	-Square
+	-Facebook
+	-Cloudera
+	-Cisco
+
+Does not have:
+	-Spotify
+	-Rdio
 
 Want to apply:
 	-Khan Academy
 	-Microsoft
 	-Google
-	-Cisco
 	-FourSquare
-	-Spotify
 	-LinkedIn
 	-Causes
 	-Twitter
-
